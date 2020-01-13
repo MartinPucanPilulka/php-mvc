@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    },
+
+    "require": {
+        "composer/composer": "^1.9",
+        "twig/twig": "^2.12"
+    }
+}
